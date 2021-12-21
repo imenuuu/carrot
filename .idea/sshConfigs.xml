@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="SshConfigs">
+    <configs>
+      <sshConfig host="15.165.245.80" id="b2f4c343-09ec-469d-bae2-8675b45ea730" keyPath="C:\Users\임현우\Desktop\imenuserver.ppk" port="22" nameFormat="DESCRIPTIVE" username="ubuntu" />
+    </configs>
+  </component>
+</project>

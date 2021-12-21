@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="9ebdaca1-0444-4af2-bfc0-a3b7feddd54c" name="carrot" url="https://www.imenu.shop">
+        <fileTransfer rootFolder="/var/www" accessType="SFTP" host="15.165.245.80" port="22" sshConfigId="b2f4c343-09ec-469d-bae2-8675b45ea730" sshConfig="ubuntu@15.165.245.80:22 key" keyPair="true">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" keepAliveTimeout="0" passiveMode="true" shareSSLContext="true" />
+          </advancedOptions>
+        </fileTransfer>
+      </webServer>
+    </option>
+  </component>
+</project>
